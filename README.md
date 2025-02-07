@@ -20,8 +20,8 @@ This is a simple Healthcare Assistance Chatbot built using **Streamlit** and **H
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/healthcare-chatbot.git
-   cd healthcare-chatbot
+   git clone https://github.com/amananand000/AI_Powered_Health_assistant
+   cd AI_Powered_Health_assistant
    ```
 2. Install the required dependencies:
    ```bash
@@ -29,7 +29,7 @@ This is a simple Healthcare Assistance Chatbot built using **Streamlit** and **H
    ```
 3. Run the chatbot application:
    ```bash
-   streamlit run chatbot.py
+   streamlit run app.py
    ```
 
 ## Usage
